@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moustafa Saad Siddiqui
 - 🔭 I’m currently working on Machine Learning and Analytics projects.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💻 Tech Stack: Python, R, SQL, Tableau, Machine Learning.
+- 💻 Tech Stack: Python, R, SQL, Tableau, PowerBI.
 - 📊 Data Enthusiast: Passionate about turning data into actionable insights.
 - 📚 Always Learning: Eager to learn and grow in the field of Data Science and Machine Learning.
 - 📫 Reach me @ msidd0580@gmail.com
